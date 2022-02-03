@@ -2,16 +2,15 @@
     margin:0;    
     padding: 0;
     box-sizing: border-box;
-    /*font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 35px;*/
     
+    font-size: 80px;
 }
 
-h1{
+/*h1{
 font-size: 60px;
 font-family:Georgia, 'Times New Roman', Times, serif ;
 
-}
+}*/
 body{
     background-image: url(../imagenes/imagen\ informatica.jfif);
     background-repeat: no-repeat;
@@ -24,7 +23,7 @@ body{
     margin: auto;
     margin: top 100px; 
     border-radius: 4px;
-    font-family: cursive;
+    /*font-family: cursive;*/
 }
 
 .registro h4{
