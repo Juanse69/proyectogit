@@ -2,10 +2,19 @@
     margin:0;    
     padding: 0;
     box-sizing: border-box;
+    
+    font-size: 80px;
 }
 
+/*h1{
+font-size: 60px;
+font-family:Georgia, 'Times New Roman', Times, serif ;
+
+}*/
 body{
-    background-color: blueviolet;
+    background-image: url(../imagenes/imagen\ informatica.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .registro{
     width: 400px;
@@ -14,7 +23,7 @@ body{
     margin: auto;
     margin: top 100px; 
     border-radius: 4px;
-    font-family: cursive;
+    /*font-family: cursive;*/
 }
 
 .registro h4{
@@ -60,4 +69,19 @@ body{
     color:black;
     margin: 16px 0;
     font-size: 16px;
+}
+
+.boton2{
+    width: 50%;
+    background-color: white;
+    border: none;
+    padding: 15px;
+    color:blueviolet;
+    margin: 18px 3;
+    font-size: 16px;
+}
+
+.imagen{
+    float: left;
+    background-size: 25%;
 }
